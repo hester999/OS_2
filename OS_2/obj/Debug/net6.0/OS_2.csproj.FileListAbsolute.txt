@@ -1,0 +1,15 @@
+/Users/hester/Documents/C#/OS_2/OS_2/bin/Debug/net6.0/OS_2
+/Users/hester/Documents/C#/OS_2/OS_2/bin/Debug/net6.0/OS_2.deps.json
+/Users/hester/Documents/C#/OS_2/OS_2/bin/Debug/net6.0/OS_2.runtimeconfig.json
+/Users/hester/Documents/C#/OS_2/OS_2/bin/Debug/net6.0/OS_2.dll
+/Users/hester/Documents/C#/OS_2/OS_2/bin/Debug/net6.0/OS_2.pdb
+/Users/hester/Documents/C#/OS_2/OS_2/obj/Debug/net6.0/OS_2.csproj.AssemblyReference.cache
+/Users/hester/Documents/C#/OS_2/OS_2/obj/Debug/net6.0/OS_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hester/Documents/C#/OS_2/OS_2/obj/Debug/net6.0/OS_2.AssemblyInfoInputs.cache
+/Users/hester/Documents/C#/OS_2/OS_2/obj/Debug/net6.0/OS_2.AssemblyInfo.cs
+/Users/hester/Documents/C#/OS_2/OS_2/obj/Debug/net6.0/OS_2.csproj.CoreCompileInputs.cache
+/Users/hester/Documents/C#/OS_2/OS_2/obj/Debug/net6.0/OS_2.dll
+/Users/hester/Documents/C#/OS_2/OS_2/obj/Debug/net6.0/refint/OS_2.dll
+/Users/hester/Documents/C#/OS_2/OS_2/obj/Debug/net6.0/OS_2.pdb
+/Users/hester/Documents/C#/OS_2/OS_2/obj/Debug/net6.0/OS_2.genruntimeconfig.cache
+/Users/hester/Documents/C#/OS_2/OS_2/obj/Debug/net6.0/ref/OS_2.dll
